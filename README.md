@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on pretty CRAZY stuff (or sleeping)
+🔭 I’m currently working on some pretty CRAZY stuff (or sleeping)
 
 
 # 💻 Tech Stack:
